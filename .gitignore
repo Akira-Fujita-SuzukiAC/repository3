@@ -1,0 +1,33 @@
+# コメントはこのように"#"を使う
+
+# 特定のファイルを無視
+# /directory_name/file_name.log
+
+# 特定のディレクトリを無視
+# /directory_name/
+
+# この名前と一致している、.gitignore以下の全サブディレクトリ下にあるファイル・ディレクトリを無視
+# file_name
+
+# すべての拡張子.dbファイルを無視
+# *.db
+
+# src フォルダの中身をすべて無視
+# src/
+
+# 不要なものを無視（AKIRA FUJITA 251205）
+_notes/
+_compareTemp/
+.DS_Store
+*.log
+
+# WordPress案件用
+# Node.js関連
+node_modules/
+# ビルド成果物
+dist/
+build/
+# WordPressのアップロードファイル
+wp-content/uploads/
+# キャッシュファイル
+wp-content/cache/
