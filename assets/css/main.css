@@ -2061,8 +2061,4 @@ section,
   padding-left: 5px;
   color: color-mix(in srgb, var(--default-color), transparent 60%);
   font-size: 14px;
-}
-
-body {
-  outline: 5px solid red;
 }/*# sourceMappingURL=main.css.map */

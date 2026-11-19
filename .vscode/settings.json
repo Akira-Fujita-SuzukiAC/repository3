@@ -3,7 +3,7 @@
     {
       "format": "expanded",
       "extensionName": ".css",
-      "savePath": "/Active-pro/assets/css"
+      "savePath": "/assets/css"
     }
   ],
   "liveSassCompile.settings.generateMap": true
